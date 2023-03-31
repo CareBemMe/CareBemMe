@@ -114,7 +114,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/Kaluribr">
         <img src="https://avatars.githubusercontent.com/u/87100085?v=4" width="100px;" alt="Foto do Danilo"/><br>
         <sub>
-          <b>Danilo</b>
+          <b>Danilo M.</b>
         </sub>
       </a>
     </td>
@@ -122,7 +122,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/ovictoru">
         <img src="https://avatars.githubusercontent.com/u/123930982?v=4" width="100px;" alt="Foto do Gabriel"/><br>
         <sub>
-          <b>Gabriel</b>
+          <b>Gabriel F.</b>
         </sub>
       </a>
     </td>
@@ -130,7 +130,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/GustavoSantiago81">
         <img src="https://avatars.githubusercontent.com/u/123910445?v=4" width="100px;" alt="Foto do Gustavo no Github"/><br>
         <sub>
-          <b>Gustavo</b>
+          <b>Gustavo S.</b>
         </sub>
       </a>
     </td>
@@ -138,7 +138,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/jennifer-cruz">
         <img src="https://user-images.githubusercontent.com/91226847/227216220-8761c94f-a161-467d-95c1-0942db54966f.jpeg" width="100px;" alt="Foto da Jennifer no GitHub"/><br>
         <sub>
-          <b>Jennifer Cruz</b>
+          <b>Jennifer C.</b>
         </sub>
       </a>
     </td>
@@ -146,7 +146,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/LaiFrance">
         <img src="https://avatars.githubusercontent.com/u/91226847?v=4" width="100px;" alt="Foto da Laise no GitHub"/><br>
         <sub>
-          <b>Laise France</b>
+          <b>Laise F.</b>
         </sub>
       </a>
     </td>
@@ -154,7 +154,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/Mrnho1">
         <img src="https://avatars.githubusercontent.com/u/110050225?v=4" width="100px;" alt="Foto do Lucas"/><br>
         <sub>
-          <b>Lucas Marinho</b>
+          <b>Lucas M.</b>
         </sub>
       </a>
     </td>
@@ -162,7 +162,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/becadfd">
         <img src="https://avatars.githubusercontent.com/u/123839829?v=4" width="100px;" alt="Foto da Rebeca no GitHub"/><br>
         <sub>
-          <b>Rebeca</b>
+          <b>Rebeca D.</b>
         </sub>
       </a>
     </td>
