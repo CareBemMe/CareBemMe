@@ -19,8 +19,8 @@ public class SwaggerConfig {
 	public OpenAPI springBemMeCareOpenAPI() {
 		return new OpenAPI()
 				.info(new Info()
-					.title("Projeto Blog Pessoal")
-					.description("Projeto Blog Pessoal - Generation Brasil")
+					.title("Bem Me Care")
+					.description("Projeto Integrador - Generation Brasil")
 					.version("v0.0.1")
 				.license(new License()
 					.name("Generation Brasil")
@@ -31,7 +31,7 @@ public class SwaggerConfig {
 					.email("carebemme@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
-					.url("https://github.com/CareBemMe/projetoBMC"));
+					.url("https://github.com/CareBemMe/CareBemMe"));
 	}
 	
 	
