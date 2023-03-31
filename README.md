@@ -52,14 +52,9 @@ Bem Me Care é uma loja virtual criada com o intuito de trazer produtos de higie
 
 Aqui você encontra os melhores produtos para cuidar da sua saúde íntima:
 
-- Absorventes higiênicos
-- Absorventes noturnos
-- Calcinhas absorventes
-- Pantanas
-- Lenços umedecidos
-- Sabonetes íntimos
-- Óleos íntimos
-- Hidratantes íntimos
+- Absorventes reutilizáveis
+- Coletores Menstruais
+
 
 ## Entrega
 
@@ -116,18 +111,10 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/becadfd">
-        <img src="https://avatars.githubusercontent.com/u/123839829?v=4" width="100px;" alt="Foto da Rebeca no GitHub"/><br>
-        <sub>
-          <b>Rebecca Damas</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Kaluribr">
         <img src="https://avatars.githubusercontent.com/u/87100085?v=4" width="100px;" alt="Foto do Danilo"/><br>
         <sub>
-          <b>Danilo Moraes</b>
+          <b>Danilo</b>
         </sub>
       </a>
     </td>
@@ -135,7 +122,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/ovictoru">
         <img src="https://avatars.githubusercontent.com/u/123930982?v=4" width="100px;" alt="Foto do Gabriel"/><br>
         <sub>
-          <b>Gabriel Farias</b>
+          <b>Gabriel</b>
         </sub>
       </a>
     </td>
@@ -143,7 +130,7 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
       <a href="https://github.com/GustavoSantiago81">
         <img src="https://avatars.githubusercontent.com/u/123910445?v=4" width="100px;" alt="Foto do Gustavo no Github"/><br>
         <sub>
-          <b>Gustavo Santiago</b>
+          <b>Gustavo</b>
         </sub>
       </a>
     </td>
@@ -168,6 +155,14 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
         <img src="https://avatars.githubusercontent.com/u/110050225?v=4" width="100px;" alt="Foto do Lucas"/><br>
         <sub>
           <b>Lucas Marinho</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/becadfd">
+        <img src="https://avatars.githubusercontent.com/u/123839829?v=4" width="100px;" alt="Foto da Rebeca no GitHub"/><br>
+        <sub>
+          <b>Rebeca</b>
         </sub>
       </a>
     </td>
